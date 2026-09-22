@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome!
 
-<!--![Banner](https://via.placeholder.com/800x200/000000/FFFFFF/?text=Hello,+my+name+is+David.+Let's+Connect!)-->
+<!--![Banner]-->
 
 Hello! My name is **David**. I am currently studying Computer Science and Data Science at Duoc UC. 🎓
 
