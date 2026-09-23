@@ -39,7 +39,7 @@ Ciencia de Datos | Análisis de Datos | Programación | Machine Learning
 
   **Cloud Computing** <br>
   <div style="display: flex; gap: 5px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="64px" alt="Google Cloud" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="64px" alt="Google Cloud" /> -->
   <img src="https://iconic-api.onrender.com/light/aws" width="64px" alt="AWS" />
   <img src="https://iconic-api.onrender.com/light/azure" width="64px" alt="Azure" />
   </div>
